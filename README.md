@@ -38,7 +38,7 @@
 
 ## Overview
 
-![screenshot](\thumbnail.png)
+![screenshot](thumbnail.PNG)
 
 <!--
 Overview
